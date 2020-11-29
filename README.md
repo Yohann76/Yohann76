@@ -2,11 +2,10 @@
 
 ### Yohann Durand 👋
 
-I have been passionate about web technology for a long time. So I sought to educate myself in order to build a career out of my passion. Back-end development is my specialty.
+<!-- I have been passionate about web technology for a long time. So I sought to educate myself in order to build a career out of my passion. Back-end development is my specialty. -->
 
 <!--
 **Yohann76/Yohann76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - 🔭 I’m currently working on private project, and open-source softwares
@@ -18,5 +17,6 @@ I have been passionate about web technology for a long time. So I sought to educ
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 "# Yohann76"
+-->
