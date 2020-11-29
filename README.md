@@ -1,3 +1,4 @@
+![Cover](https://github.com/Yohann76/Yohann76/blob/main/img/BannerYOHANN%20DURAND.png)
 
 ### Yohann Durand 👋
 
@@ -18,4 +19,4 @@ I have been passionate about web technology for a long time. So I sought to educ
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-"# Yohann76" 
+"# Yohann76"
