@@ -4,6 +4,10 @@
 
 <!-- I have been passionate about web technology for a long time. So I sought to educate myself in order to build a career out of my passion. Back-end development is my specialty. -->
 
+I love work in programming ⚡
+
+## Stack Technique
+
 |Intégration  |Frontend  |Backend  |Serveur  |Cloud & Annexe  |Data          |Déploiement   |CMS          |
 |--           |--        |--       |--       |--              |--            |--            |--           |
 |HTML         |JavaScript|PHP      |Debian   |AWS             |PostgreSQL    |Ansible       |Wordpress    |
