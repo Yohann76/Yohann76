@@ -4,7 +4,7 @@
 
 <!-- I have been passionate about web technology for a long time. So I sought to educate myself in order to build a career out of my passion. Back-end development is my specialty. -->
 
-I love work in programming ⚡
+⚡ Programming is my job
 
 ## Stack Technique
 
@@ -15,6 +15,15 @@ I love work in programming ⚡
 |Bootstrap    |Webpack   |Composer |shell    |                |MongoDB       |Déploiement   |Prestashop   |
 |Sass         |React.js  |Symfony  |Nginx    |                |WorkBench     |GitlabCI      |             |
 |Twig         |Yarn      |Doctrine |Apache   |                |              |Heroku        |             |
+
+
+
+💬 Some useful links : 
+
+[Linkedin](https://www.linkedin.com/in/yohann-durand/)
+[Gitlab](https://gitlab.com/Yohann76)
+[Symfonyconnect](https://connect.symfony.com/profile/yohann-durand)
+
 
 
 <!--
@@ -32,4 +41,13 @@ I love work in programming ⚡
 - ⚡ Fun fact: ...
 
 "# Yohann76"
+-->
+
+<!-- 
+
+Link : 
+[StackOverflow](https://stackoverflow.com/users/12060241/yohann-durand)
+[RootMe](https://www.root-me.org/Yohann76)
+
+
 -->
